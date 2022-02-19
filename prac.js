@@ -1,8 +1,8 @@
 //Reading Files
 
-const example = require('./index');
+// const example = require('./index');
 
-console.log(example);
+// console.log(example);
 
 // const fs = require('fs');
 
